@@ -473,7 +473,7 @@ def iteration_performance_visualization(precision_dict, recall_dict):
 # Assume 'ground_truth_labels' contains the list of all relevant document IDs from your truly_pos set
 # Load the labeled positives
 
-percentages  = [0.1,0.3, 0.5]
+percentages  = [0.1,0.3, 0.5, 0.98]
 precision_dict = {}
 recall_dict = {}
 
