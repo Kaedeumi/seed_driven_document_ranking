@@ -1,3 +1,8 @@
+**This is the completed version of my FYP. **
+This project retrieves the relevant articles in the PubMed database according to the seed corpus provided, and includes 3 different methods to achieve that: MC, MCMC and MLT.
+nnPU is not included in this repository.
+=========================================================================================================================================================================
+Logs written in the winter vacation of 2024
 ## **Comparison with the original work of Monte-Carlo sampling:**
 - [x] 1.__Seed corpus:__ I used the labeled positive sets in the `train.jsonl`
 - [x] 2.__Keyword extraction:__ I extracted the keywords by tf-idf value rankings, also in `keywordExtraction.py`.
