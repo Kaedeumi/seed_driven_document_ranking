@@ -1,5 +1,5 @@
 This is the completed version of my FYP. 
-This project retrieves the relevant articles in the PubMed database according to the seed corpus provided, and includes 3 different methods to achieve that: MC, MCMC and MLT.
+This project retrieves the relevant articles in the PubMed database according to the seed corpus provided, and utilizes 3 different methods to achieve that: MC, MCMC and MLT.
 nnPU is not included in this repository.
 =========================================================================================================================================================================
 Logs written in the winter vacation of 2024
